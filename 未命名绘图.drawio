@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T13:36:57.582Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="2fYNUwJfQ5Kf8wdjwpT6" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T13:41:24.085Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Ij84-6nPCvCIUGgQ_8xW" version="21.2.1" type="github">
   <diagram name="第 1 页" id="8L0c7GUbmjwBPtoNU49F">
     <mxGraphModel dx="1050" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -90,12 +90,13 @@
         <mxCell id="fjzckVjsFBx4tYkLJNJ8-28" value="training KL loss" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="133" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fjzckVjsFBx4tYkLJNJ8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fjzckVjsFBx4tYkLJNJ8-29" target="fjzckVjsFBx4tYkLJNJ8-4">
+        <mxCell id="fjzckVjsFBx4tYkLJNJ8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="360" as="targetPoint" />
+            <mxPoint x="493" y="338" as="targetPoint" />
+            <mxPoint x="493" y="189" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="590" y="210" />
-              <mxPoint x="590" y="360" />
+              <mxPoint x="590" y="189" />
+              <mxPoint x="590" y="339" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -106,6 +107,12 @@
         </mxCell>
         <mxCell id="fjzckVjsFBx4tYkLJNJ8-29" value="dev KL loss" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="373" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjzckVjsFBx4tYkLJNJ8-37" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="493" y="340" width="207" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjzckVjsFBx4tYkLJNJ8-39" value="&lt;br&gt;if&amp;nbsp;Model Competence &amp;gt; &lt;br&gt;Sample Difficult&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;model pay more attention&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;if&amp;nbsp; Model Competence &amp;lt; Sample Difficult&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;model pay more attention&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="160" width="170" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

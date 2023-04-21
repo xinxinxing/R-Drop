@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-21T03:24:18.482Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="7jz4kKIg9Z1CX7AQgAlA" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-21T03:35:51.772Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="blCFe1PYkJZKXhTdrBU9" version="21.2.1" type="github">
   <diagram name="第 1 页" id="8L0c7GUbmjwBPtoNU49F">
     <mxGraphModel dx="762" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -34,16 +34,16 @@
             <mxPoint x="469" y="326" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fjzckVjsFBx4tYkLJNJ8-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fjzckVjsFBx4tYkLJNJ8-28" edge="1">
+        <mxCell id="fjzckVjsFBx4tYkLJNJ8-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fjzckVjsFBx4tYkLJNJ8-28" edge="1" target="fjzckVjsFBx4tYkLJNJ8-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="179" y="510" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="97" y="210" />
-              <mxPoint x="97" y="510" />
+              <mxPoint x="120" y="190" />
+              <mxPoint x="120" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fjzckVjsFBx4tYkLJNJ8-31" value="Difficult Measure" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fjzckVjsFBx4tYkLJNJ8-30" vertex="1" connectable="0">
+        <mxCell id="fjzckVjsFBx4tYkLJNJ8-31" value="Difficult&lt;br&gt;&amp;nbsp;Measure" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fjzckVjsFBx4tYkLJNJ8-30" vertex="1" connectable="0">
           <mxGeometry x="-0.0888" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -70,7 +70,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fjzckVjsFBx4tYkLJNJ8-35" value="Model Competence&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fjzckVjsFBx4tYkLJNJ8-32" vertex="1" connectable="0">
+        <mxCell id="fjzckVjsFBx4tYkLJNJ8-35" value="Model &lt;br&gt;Competence&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fjzckVjsFBx4tYkLJNJ8-32" vertex="1" connectable="0">
           <mxGeometry x="0.7093" relative="1" as="geometry">
             <mxPoint x="47" y="-50" as="offset" />
           </mxGeometry>
@@ -78,11 +78,11 @@
         <mxCell id="fjzckVjsFBx4tYkLJNJ8-29" value="dev KL loss" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="422" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fjzckVjsFBx4tYkLJNJ8-37" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.2888897931134276;arrowSize=0.24050615742572165;" parent="1" vertex="1">
-          <mxGeometry x="542" y="340" width="158" height="60" as="geometry" />
+        <mxCell id="fjzckVjsFBx4tYkLJNJ8-37" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5087719298245588;arrowSize=0.2764821824512823;" parent="1" vertex="1">
+          <mxGeometry x="546" y="354" width="158" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fjzckVjsFBx4tYkLJNJ8-39" value="&lt;br&gt;if&amp;nbsp;Model Competence &amp;gt; &lt;br&gt;Sample Difficult&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;model pay more attention&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;if&amp;nbsp; Model Competence &amp;lt; Sample Difficult&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;model pay less attention&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="140" width="170" height="380" as="geometry" />
+          <mxGeometry x="710" y="130" width="170" height="380" as="geometry" />
         </mxCell>
         <mxCell id="fjzckVjsFBx4tYkLJNJ8-85" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="418" y="267" width="106" height="60" as="geometry" />

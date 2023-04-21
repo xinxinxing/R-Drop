@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-21T03:38:59.325Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="0IGgoRtUhJaSkMYenBcN" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-21T03:42:27.911Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="AB9Oq40R1AhNqF_ojTP2" version="21.2.1" type="github">
   <diagram name="第 1 页" id="8L0c7GUbmjwBPtoNU49F">
-    <mxGraphModel dx="965" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="259" dy="176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,8 +52,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="240" y="130" />
-              <mxPoint x="637" y="130" />
+              <mxPoint x="248" y="130" />
+              <mxPoint x="590" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -79,10 +79,10 @@
           <mxGeometry x="422" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fjzckVjsFBx4tYkLJNJ8-37" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5087719298245588;arrowSize=0.2764821824512823;" parent="1" vertex="1">
-          <mxGeometry x="546" y="354" width="158" height="40" as="geometry" />
+          <mxGeometry x="542" y="354" width="114" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fjzckVjsFBx4tYkLJNJ8-39" value="&lt;br&gt;if&amp;nbsp;Model Competence &amp;gt; &lt;br&gt;Sample Difficult&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;model pay more attention&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;if&amp;nbsp; Model Competence &amp;lt; Sample Difficult&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;model pay less attention&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="710" y="130" width="170" height="380" as="geometry" />
+          <mxGeometry x="660" y="130" width="170" height="380" as="geometry" />
         </mxCell>
         <mxCell id="fjzckVjsFBx4tYkLJNJ8-85" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="418" y="267" width="106" height="60" as="geometry" />

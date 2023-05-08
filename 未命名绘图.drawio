@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T03:00:57.902Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="G5uXa_WxFSTYlx7_rl7i" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-08T03:04:50.543Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="b3XT55VzvD07nN1CbuLS" version="21.2.9" type="github">
   <diagram name="第 1 页" id="8L0c7GUbmjwBPtoNU49F">
     <mxGraphModel dx="1413" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
       <root>
@@ -678,7 +678,7 @@
         <mxCell id="LD0wPLL9g9SC3g2RwY7P-85" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Model Competence&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="193" y="566" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LD0wPLL9g9SC3g2RwY7P-87" value="&lt;p style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&lt;br&gt;Model Competence&lt;br&gt;&amp;nbsp;Difficult Measurer&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="LD0wPLL9g9SC3g2RwY7P-87" value="&lt;p style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Model Competence is match with Sample Difficulty&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="354" y="445.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LD0wPLL9g9SC3g2RwY7P-88" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
